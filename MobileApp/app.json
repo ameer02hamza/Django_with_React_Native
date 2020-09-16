@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "MobileApp",
+    "slug": "MobileApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "/root/ReactNativeProjects/MobileApp/app/assets/icon.png",
+    "splash": {
+      "image": "/root/ReactNativeProjects/MobileApp/app/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
